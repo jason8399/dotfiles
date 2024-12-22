@@ -1,5 +1,7 @@
 README.md
 
+install.sh
+
 .oh-my-zsh/cache/*
 .vim/autoload/*
 .vim/plugged/*
